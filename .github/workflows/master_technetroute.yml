@@ -54,4 +54,4 @@ jobs:
           app-name: 'TechnetRoute'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_24A0E5635D684F0099250A10139B1F65 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_014442FCEABE45D3BB249393DC1212EC }}
